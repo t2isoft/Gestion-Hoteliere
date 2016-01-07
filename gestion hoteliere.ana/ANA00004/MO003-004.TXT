@@ -1,0 +1,13 @@
+//MO003-004.TXT ANA00003 TO ANA00004
+Tarif		TAR	19	nouvelle taille enregistrement : 19
+Tarif		IDE-*		fichier sans identifiant
+Tarif	Tarif_chambre	CNW	Monétaire$Identifiant automatique (4 octets)	la rubrique Tarif_chambre a pour nouveau type Monétaire
+Facture		TAR	49	nouvelle taille enregistrement : 49
+Facture	date_facture	CNW	Date (aaaammjj)$Chaîne	la rubrique date_facture a pour nouveau type Date (aaaammjj)
+Facture	montan_facture	CNW	Monétaire$Chaîne	la rubrique montan_facture a pour nouveau type Monétaire
+Facture	date_payment	CNW	Date (aaaammjj)$Chaîne	la rubrique date_payment a pour nouveau type Date (aaaammjj)
+Chambre		TAR	35	nouvelle taille enregistrement : 35
+Chambre	nb_pers_chambre	CNW	Entier sur 4 octets$Chaîne	la rubrique nb_pers_chambre a pour nouveau type Entier sur 4 octets
+Chambre	Tele_chambre	CNW	Entier sur 4 octets$Chaîne	la rubrique Tele_chambre a pour nouveau type Entier sur 4 octets
+Chambre	etage_chambre	CNW	Entier sur 4 octets$Chaîne	la rubrique etage_chambre a pour nouveau type Entier sur 4 octets
+Chambre	Tarif_chambre	CNW	Monétaire$Entier sur 4 octets	la rubrique Tarif_chambre a pour nouveau type Monétaire

@@ -1,0 +1,5 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+Tarifs		NFI		nouveau fichier
+Chambres		NFI		nouveau fichier
+Chambres		FRN		
+Tarifs		FRN		

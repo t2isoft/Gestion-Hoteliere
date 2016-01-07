@@ -1,0 +1,17 @@
+//MO002-003.TXT ANA00002 TO ANA00003
+Chambre_Client		NFI		nouveau fichier
+Tarif		NFI		nouveau fichier
+Methode_de_payement		NFI		nouveau fichier
+Facture		NFI		nouveau fichier
+Client		NFI		nouveau fichier
+Chambre		NFI		nouveau fichier
+Client		NWL	Client (IDClient) et Chambre_Client (IDClient)	Nouvelle liaison entre les fichiers Client (IDClient) et Chambre_Client (IDClient)
+Chambre		NWL	Chambre (IDChambre) et Chambre_Client (IDChambre)	Nouvelle liaison entre les fichiers Chambre (IDChambre) et Chambre_Client (IDChambre)
+Methode_de_payement		NWL	Methode_de_payement (IDMethode_de_payement) et Facture (IDMethode_de_payement)	Nouvelle liaison entre les fichiers Methode_de_payement (IDMethode_de_payement) et Facture (IDMethode_de_payement)
+Client		NWL	Client (IDClient) et Facture (IDClient)	Nouvelle liaison entre les fichiers Client (IDClient) et Facture (IDClient)
+Tarif		NWL	Tarif (Tarif_chambre) et Chambre (Tarif_chambre)	Nouvelle liaison entre les fichiers Tarif (Tarif_chambre) et Chambre (Tarif_chambre)
+Chambre		FRN		
+Client		FRN		
+Facture		FRN		
+Methode_de_payement		FRN		
+Tarif		FRN		

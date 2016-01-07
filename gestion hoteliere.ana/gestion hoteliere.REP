@@ -1,0 +1,9 @@
+;PCSoft - Hyper File V7.00 - REP V7.00
+;Do not edit. Please use specific tools.
+ANALYSISGUID=E	;Analysis GUID
+LOCALIZATION_UTF8=6069C32A7AA94DCA94E0C54C3147A7BD	Chambre	C:\Mes Projets\gestion hoteliere\Exe\Chambre.fic
+LOCALIZATION_UTF8=AC22ED81B01940759531CC269FB4EDA9	Tarif	C:\Mes Projets\gestion hoteliere\Exe\Tarif.fic
+LOCALIZATION_UTF8=D47D7B823E1542FFB96AFACB6D0E7753	Chambre_Client	C:\Mes Projets\gestion hoteliere\Exe\Chambre_Client.fic
+LOCALIZATION_UTF8=1A418382D5C44CF9BA270A2D02CDF7D2	Client	C:\Mes Projets\gestion hoteliere\Exe\Client.fic
+LOCALIZATION_UTF8=B6EA2EA74075490F82859B68FE225B53	Facture	C:\Mes Projets\gestion hoteliere\Exe\Facture.fic
+LOCALIZATION_UTF8=E239ECAAAA4B4B109E0B756532515B51	Methode_de_payement	C:\Mes Projets\gestion hoteliere\Exe\Methode_de_payement.fic
